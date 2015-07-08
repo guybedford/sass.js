@@ -1,7 +1,5 @@
-try {
-  require("ws");
-}
-catch(e) {
-}
+var a = 5;
+
+var a;
 
 require("ws");
